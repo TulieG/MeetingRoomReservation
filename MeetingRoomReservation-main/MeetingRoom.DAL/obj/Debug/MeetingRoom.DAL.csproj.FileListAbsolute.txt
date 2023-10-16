@@ -1,0 +1,14 @@
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\MeetingRoom.DAL.dll.config
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\MeetingRoom.DAL.dll
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\MeetingRoom.DAL.pdb
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.csproj.AssemblyReference.cache
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.Migrations.MeetingMigration.resources
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.csproj.GenerateResource.cache
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.csproj.CopyComplete
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.dll
+C:\Users\ganti\Downloads\MeetingRoomReservation-main\MeetingRoomReservation-main\MeetingRoom.DAL\obj\Debug\MeetingRoom.DAL.pdb
